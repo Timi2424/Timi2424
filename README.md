@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Tymon</h1>
 <h3>I'm a fullstack developer, currently focusing my full energy to expand my knowledge. I love the moment when seemingly miniscule components you built, come together and create something amazing.</h3>
 
-- 🌱 I’m currently learning **Next.js**
-
 - 💬 Ask me about **react, node.js**
 
 - 📫 How to reach me **tymon.bieg@gmail.com**
